@@ -6,6 +6,6 @@ Welcome to my web development repository! Here, you will find a collection of HT
 ## Modules
 |              |        |               |
 | :---        |    :----:   |          :---: |
-|[![html](https://www.svgrepo.com/show/378427/html-fill.svg)](./web-dev-basics)             | [Introduction to HTML](./web-dev-basics)       | Structuring web pages using  HTML   |
-| [![css](https://www.svgrepo.com/show/303481/css-3-logo.svg)](./css-basics)   | [CSS Basics](./css-basics)        | Styling web pages using CSS      |
-| [![js](https://www.svgrepo.com/show/349419/javascript.svg)](./lab/) | [Javascript](./lab) | Adding responsiveness to webpages
+|[![html](assets/html-5.svg)](./web-dev-basics)             | [Introduction to HTML](./web-dev-basics)       | Structuring web pages using  HTML   |
+| [![css](assets/css-3.svg)](./css-basics)   | [CSS Basics](./css-basics)        | Styling web pages using CSS      |
+| [![js](assets/javascript.svg)](./lab/) | [Javascript](./lab) | Adding responsiveness to webpages
