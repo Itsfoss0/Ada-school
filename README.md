@@ -7,6 +7,15 @@ Welcome to my web development repository! Here, you will find a collection of HT
 
 <table>
 <tr>
-<td><a href="./web-dev-basics"><img src="assets/html-5.svg" width="100px"></a></td>
+<td><a href="./web-dev-basics"><img src="assets/html-5.svg" width="100px"></a>
+</td>
+<td><a href="./web-dev-basics">Introduction to HTML</a>
+</td>
+</tr>
+<tr>
+<td><a href="./css-basics"><img src="assets/css-3.svg" width="100px"></a>
+</td>
+<td><a href="./css-basics">CSS Basics</a>
+</td>
 </tr>
 </table>
