@@ -4,8 +4,9 @@
 Welcome to my web development repository! Here, you will find a collection of HTML, CSS, and JavaScript code snippets, concepts, and resources that I have compiled during my time as a Web Development student at Ada School. This repository is designed to serve as a helpful resource for anyone looking to learn or refresh their skills in web development. 
 
 ## Modules
-|              |        |               |
-| :---        |    :----:   |          :---: |
-|[![html](assets/html-5.svg)](./web-dev-basics)             | [Introduction to HTML](./web-dev-basics)       | Structuring web pages using  HTML   |
-| [![css](assets/css-3.svg)](./css-basics)   | [CSS Basics](./css-basics)        | Styling web pages using CSS      |
-| [![js](assets/javascript.svg)](./lab/) | [Javascript](./lab) | Adding responsiveness to webpages
+
+<table>
+<tr>
+<td><a href="./web-dev-basics"><img src="assets/html-5.svg" width="100px"></a></td>
+</tr>
+</table>
