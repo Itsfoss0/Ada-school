@@ -20,4 +20,12 @@ Welcome to my web development repository! Here, you will find a collection of HT
 </td>
 <td>Styling Web pages with CSS</td>
 </tr>
+<tr>
+<td><a href="./javascript-lab"><img src="assets/javascript.svg" width="100px"></a>
+</td>
+<td><a href="javascript-lab">Javascript </a></td>
+<td>
+Adding Responsiveness and DOM manipulation
+</td>
+</tr>
 </table>
