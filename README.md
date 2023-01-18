@@ -11,11 +11,13 @@ Welcome to my web development repository! Here, you will find a collection of HT
 </td>
 <td><a href="./web-dev-basics">Introduction to HTML</a>
 </td>
+<td>Structuring Web pages using HTML
 </tr>
 <tr>
 <td><a href="./css-basics"><img src="assets/css-3.svg" width="100px"></a>
 </td>
 <td><a href="./css-basics">CSS Basics</a>
 </td>
+<td>Styling Web pages with CSS</td>
 </tr>
 </table>
