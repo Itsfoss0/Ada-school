@@ -1,0 +1,23 @@
+{
+  "name": "javascript-lab",
+  "version": "1.0.0",
+  "description": "javascript-basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itsfoss0/Ada-school.git"
+  },
+  "author": "Itsfoss <akhonyaebenezer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Itsfoss0/Ada-school/issues"
+  },
+  "homepage": "https://github.com/Itsfoss0/Ada-school#readme",
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
