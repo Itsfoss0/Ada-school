@@ -27,3 +27,22 @@ console.log(mockObject - a);
 
 // multiplication
 console.log(mockObject["number"] * 2)
+
+/*
+multiline comments
+*/
+let string = "Programming is like building a multilingual puzzle";
+console.log(string);
+
+//template literals 
+let num = 98;
+console.log(`${num} Battery Street`);
+
+var alphabets = [];
+function asciiChars(){
+    for (let i = 65; i < 123; i++ ){
+        alphabets.push(String.fromCharCode(i));
+    }
+    console.log(alphabets)
+}
+asciiChars()
