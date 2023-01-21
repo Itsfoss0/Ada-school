@@ -1,20 +1,8 @@
-const firstName = prompt("Whats your first name?", "Your name here");
-const lastName = prompt("Whats your last Name?");
+//Adding two numbers in JS
 
-const fullName = firstName + " " +  lastName;
-alert(fullName);
+let number1 = parseInt(prompt("Enter First Number, Defualt is 0", 0));
+let number2 = parseInt(prompt("Enter second Number, Default is 0", 0));
 
-const age = prompt("How old are you?");
-const str = firstName + ", " + "you are " + age + " years old." 
-alert(str);
+let sum = number1 + number2;
 
-let step1 = "Open up your favourite Text Editor (I use vim)";
-let step2 = "Create a HTML document with a .html file extension";
-let step3 = "Type in the HTML content ( or copy and paste from ChatGPT :V ) and save the file";
-let step4 = "Open the HTML document in the browser";
-
-console.log(step1);
-console.log(step2);
-console.log(step3);
-console.log(step4);
-
+alert(`${number1} + ${number2} = ${sum}`);
