@@ -38,7 +38,7 @@ console.log(string);
 let num = 98;
 console.log(`${num} Battery Street`);
 
-var alphabets = [];
+let alphabets = [];
 function asciiChars(){
     for (let i = 65; i < 123; i++ ){
         alphabets.push(String.fromCharCode(i));
