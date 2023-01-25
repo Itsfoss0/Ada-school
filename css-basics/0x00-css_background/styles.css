@@ -1,3 +1,13 @@
 body{
     background-color: aquamarine;
+    opacity: 100%;
+}
+h2{
+    background-color: chartreuse;
+    opacity: 50%;
+}
+.intro{
+    background-color: rgb(81, 139, 63);
+    padding: 0%;
+    text-align: center;
 }
