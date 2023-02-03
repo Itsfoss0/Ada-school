@@ -1,6 +1,5 @@
 body{
-    background-color: aquamarine;
-    opacity: 100%;
+    background-image: url(../../assets/css-3.svg);
 }
 h2{
     background-color: chartreuse;
