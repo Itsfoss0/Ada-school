@@ -1,6 +1,7 @@
-/* Function that prints 
+/* Function that prints
 "_putchar" to stdout and returns 0
 */
+/*
 function putchar(){
     console.log("_putchar using normal function")
     return (0);
@@ -17,3 +18,13 @@ const pChar = function (){
 putchar();
 putChar();
 pChar();
+*/
+const reverseNum = (num) =>{
+  let reversedString = '';
+  const len = num.toString().length;
+  for (let i = len -1; i >= 0; i--) {
+    reversedString += num.toString()[i];
+  }
+  return reversedString;
+};
+console.log(reverseNum(133));
